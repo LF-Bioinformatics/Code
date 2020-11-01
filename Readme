@@ -5,9 +5,3 @@ Usage: java -Jar ExpressionMatrix.jar [sample table] [output prefix]
 
 Make sequences in fasta format file non-redundant and output to STD out:
 Usage: java -Jar MakeFastaNR.jar [path to input fasta file] > [output file]
-
-
-
-
-
-
