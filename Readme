@@ -2,3 +2,4 @@ Code for sRNA Bioinformatic Analyses
 
 Generation of expression matrix and alignment summary statistics from PatMaN [PMID: 18467344] alignments:
 Usage: java -Jar ExpressionMatrix.jar [sample table] [output prefix]
+
