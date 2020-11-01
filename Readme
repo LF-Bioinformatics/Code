@@ -1,1 +1,5 @@
 Code for sRNA Bioinformatic Analyses
+
+Generation of expression matrix and alignment summary statistics.
+
+Usage: java -Jar ExpressionMatrix.jar [sample table in .tsv format] [output prefix]
