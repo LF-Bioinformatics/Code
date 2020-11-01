@@ -1,0 +1,9 @@
+SAMPLE_NAME	CONDITION	REPLICATE_NAME	FASTA_NR	FASTA_NR_PATH	FASTQ	FASTQ_PATH	PATMAN	PATMAN_PATH
+X1	LL	LL_Rep1	1_NR.fa	<full path to directory containing FASTA_NR>	.	.	1_NR.patman.aln	<full path to directory containing PATMAN>
+X2	LL	LL_Rep2	2_NR.fa	<full path to directory containing FASTA_NR>	.	.	2_NR.patman.aln	<full path to directory containing PATMAN>
+X3	LL	LL_Rep3	3_NR.fa	<full path to directory containing FASTA_NR>	.	.	3_NR.patman.aln	<full path to directory containing PATMAN>
+X4	LL	LL_Rep4	4_NR.fa	<full path to directory containing FASTA_NR>	.	.	4_NR.patman.aln	<full path to directory containing PATMAN>
+X11	LN	LN_Rep1	11_NR.fa	<full path to directory containing FASTA_NR>	.	.	11_NR.patman.aln	<full path to directory containing PATMAN>
+X12	LN	LN_Rep2	12_NR.fa	<full path to directory containing FASTA_NR>	.	.	12_NR.patman.aln	<full path to directory containing PATMAN>
+X13	LN	LN_Rep3	13_NR.fa	<full path to directory containing FASTA_NR>	.	.	13_NR.patman.aln	<full path to directory containing PATMAN>
+X14	LN	LN_Rep4	14_NR.fa	<full path to directory containing FASTA_NR>	.	.	14_NR.patman.aln	<full path to directory containing PATMAN>
